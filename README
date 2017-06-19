@@ -8,3 +8,4 @@
 https://api.stackexchange.com/answers?order=desc&sort=activity&site=stackoverflow　このサイトからitemのListをRetrofit(@GET)でアプリに送って、ListViewでitemのオーナーの名前やitemのオーナーのreputation（評判）やitemのオーナーのユーザーIDをFirstFragmentにあるボタンを押したら,
 SeconfFragmentのLitViewに見える。
 Retrofitは全部のオブジェクトをアプリに送るのは遅かったので、Retrofitの部分をBackgroundThreadに入れた。(onCreate)
+retrofit.pngを開いたら、アプリの写真も見えます。
